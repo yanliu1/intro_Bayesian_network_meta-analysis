@@ -7,5 +7,5 @@ Network meta-analysis is an extension of standard meta-analysis. It allows resea
 
 ## Supplementary materials
 * A Step-by-Step BUGSnet R Tutorial 
-* A Sample Data: Results Obtained from 14 Journal Publications
+* A Sample Data: Results Obtained from 14 Journal Publications (Provided in PDF and csv files)
 
